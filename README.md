@@ -2,6 +2,8 @@
 
 Esse repositório contém a parte de Inteligência Artificial e Machine Learning do projeto Pet Cidadão, desenvolvido para a GS do segundo semestre da FIAP.
 
+Link do vídeo de apresentação: https://youtu.be/kHnB2nA4sk4
+
 ## Estrutura
 ```text
 PetCidadao-IA-ML/
@@ -24,3 +26,4 @@ PetCidadao-IA-ML/
 | Guilherme Ulacco | 558418 |
 | Matheus Hostim | 556517 |
 | Estevam Melo | 555124 |
+
