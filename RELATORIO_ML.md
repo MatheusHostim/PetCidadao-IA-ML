@@ -46,6 +46,8 @@ Só que também tivemos mais erros. O modelo apontou 1.194 solicitações como d
 
 Comparando o treino e o teste do modelo balanceado, o F1 ficou em 0,57 e 0,56, respectivamente. Os resultados ficaram bem próximos, então não encontramos sinais de um overfitting muito grande.
 
+<img width="691" height="374" alt="comparacao_f1_treino_teste" src="https://github.com/user-attachments/assets/28a0f19b-c77f-46ce-a674-136f9b3c53b3" />
+
 ## Conclusão
 
 Com esse trabalho, conseguimos usar dados reais da Prefeitura de São Paulo para treinar um modelo que tenta identificar quais solicitações podem demorar mais de 30 dias para serem finalizadas.
